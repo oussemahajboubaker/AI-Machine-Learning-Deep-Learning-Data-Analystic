@@ -222,9 +222,7 @@ python -c "import numpy, pandas, matplotlib, seaborn, sklearn, tensorflow; print
 - **Chercheur** : Publications dans le domaine de l'IA
 
 ### 🌐 **Réseaux**
-- **GitHub** : [@votre-username](https://github.com/votre-username)
-- **LinkedIn** : [Votre Profil](https://linkedin.com/in/votre-profil)
-- **Portfolio** : [votre-site.com](https://votre-site.com)
+- **LinkedIn** : [Votre Profil]([https://linkedin.com/in/votre-profil](https://www.linkedin.com/in/oussema-rais-461286280/))
 
 ### 🤝 **Contributions**
 - **Issues** : Signalez les bugs et suggestions
