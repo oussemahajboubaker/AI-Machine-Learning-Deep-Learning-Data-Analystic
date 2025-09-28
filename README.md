@@ -216,13 +216,9 @@ python -c "import numpy, pandas, matplotlib, seaborn, sklearn, tensorflow; print
 
 ## 👩‍💻 **AUTEUR & CONTRIBUTIONS**
 
-### 🎓 **Formation**
-- **Expert en Data Science** : 5+ années d'expérience
-- **Formateur certifié** : Spécialisé en IA et ML
-- **Chercheur** : Publications dans le domaine de l'IA
-
 ### 🌐 **Réseaux**
-- **LinkedIn** : [Votre Profil]([https://linkedin.com/in/votre-profil](https://www.linkedin.com/in/oussema-rais-461286280/))
+- **LinkedIn**: [Votre Profil](https://www.linkedin.com/in/oussema-rais-461286280/)
+
 
 ### 🤝 **Contributions**
 - **Issues** : Signalez les bugs et suggestions
