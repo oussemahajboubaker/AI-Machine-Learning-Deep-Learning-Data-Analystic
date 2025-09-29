@@ -1,6 +1,6 @@
-# 🎓 Examen TP IA 2024 - Sujet 2 - Analyse de Risque et Machine Learning
+# 🎓 Projet IA 2024 - Sujet 2 - Analyse de Risque et Machine Learning
 
-## 🎯 **CONTEXTE ET OBJECTIF DE L'EXAMEN**
+## 🎯 **CONTEXTE ET OBJECTIF DE Le projet **
 
 **Qu'est-ce que cet examen et pourquoi c'est crucial ?**
 
@@ -12,11 +12,6 @@ Cet examen pratique représente **l'évaluation finale des compétences en Intel
 - **Évaluation complète** : De l'exploration à la modélisation
 - **Préparation professionnelle** : Simulation d'un projet d'entreprise
 
-**Pourquoi cet examen est-il important ?**
-- **Certification** : Validation officielle des compétences
-- **Portfolio** : Démonstration des capacités techniques
-- **Employabilité** : Preuve de compétences pour les recruteurs
-- **Confiance** : Validation de la maîtrise des concepts
 
 **Compétences évaluées** :
 - **Exploration de données** : Analyse et visualisation
