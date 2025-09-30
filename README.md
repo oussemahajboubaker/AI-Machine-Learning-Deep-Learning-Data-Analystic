@@ -1,4 +1,4 @@
-# 🚀 Intelligence Artificielle et Machine Learning - Formation Complète
+# 🚀 Intelligence Artificielle et Machine Learning - Auto Formation Complète
 ## 🎓 *De Zéro à Expert en Data Science et Deep Learning*
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org)
@@ -11,7 +11,7 @@
 
 ## 🔍 **OVERVIEW** 
 
-Ce repository représente une **formation complète et progressive en Intelligence Artificielle et Machine Learning**, conçue pour transformer des débutants en experts capables de résoudre des problèmes réels d'entreprise. Chaque module est soigneusement structuré pour construire une expertise solide, des fondations mathématiques jusqu'aux techniques avancées de deep learning.
+Ce repository représente une **Auto formation complète et progressive en Intelligence Artificielle et Machine Learning**, conçue pour transformer des débutants en experts capables de résoudre des problèmes réels d'entreprise. Chaque module est soigneusement structuré pour construire une expertise solide, des fondations mathématiques jusqu'aux techniques avancées de deep learning.
 
 ### 🎯 **Mission du Projet**
 - **Démocratiser l'IA** : Rendre l'intelligence artificielle accessible à tous
